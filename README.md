@@ -1,5 +1,5 @@
 # 8-bit-Up-Down-Counter-using-Verilog-HDL
-# 8-bit Up-Down Counter using Verilog HDL
+
 
 An 8-bit Up-Down Counter implemented in Verilog HDL, which increments or decrements based on a mode-select input — simulated and synthesized on Xilinx Vivado.
 
